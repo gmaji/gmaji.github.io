@@ -8,14 +8,14 @@ redirect_from:
 
 {% include base_path %}
 
-Download [CV](http://zejiang-unsw.github.io/files/CV_ZeJIANG.pdf)
+Download [CV](http://gmaji.github.io/files/Giridhar_Resume_Nov2023.pdf)
 ======
 
 Education
 ======
-* B.Eng. in Environmental Engineering, Hohai University, Nanjing, China, 2012
-* M.Sc. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
-* Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021
+* B.Tech. in Electrical Engineering, National Institute of Technology, Durgapur, India, 2007
+* M.Tech. in MCSA, AKCSIT, University of Calcutta, India, 2015
+* Ph.D. in Information Technology (Data Science/Data Mining), AKCSIT, University of Calcutta, India, 2023
 
 Research Interests
 ======
