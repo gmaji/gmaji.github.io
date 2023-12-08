@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ze Jiang"
+title: "Giridhar Maji"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is Ze Jiang's personal homepage. Please also refer to my [homepage@UNSW](https://www.unsw.edu.au/staff/ze-jiang). 
+This Giridhar Maji's personal homepage. Please also refer to my [homepage@ASNP](https://sites.google.com/site/asansolgovtpolytechnic/departments/department-of-electrical-engineering/giridhar-maji). 
 
 ## A short introduction
-I am a Postdoctoral Research Fellow in the School of Civil and Environmental Engineering's [Water Research Centre@UNSW](https://www.wrc.unsw.edu.au/) working in the field of hydro-climatology. My main research area has been so far the characterization of hydrological extremes (e.g. droughts). I received my Ph.D. in Water Resource Engineering from UNSW.  The major contribution of my Ph.D. was to find a novel way to modify predictor spectral representation using wavelet theory for improved natural system modelling. The method, namely Wavelet System Prediction (WASP), has been successfully applied in different areas, such as drought forecasting and paleoclimate reconstruction. I received my B.Eng. in Environmental Engineering from Hohai University, Nanjing, China; I did my Joint M.Sc., named “EuroAquae - HydroInformatics and Water Management” under a partnership of five European universities (in Barcelona, Budapest, Cottbus, Newcastle/UK, and Nice). Before moving to Australia, I also worked in hydrological and crop modelling at Tropical Marine Science Institute (TMSI) of National University of Singapore (NUS) for two years.
+I am a Lecturer in the department of Electrical Engineering, Asansol Polytechnic, WB, India. I work in the areas of Social network analysis, Community detecton, Multi-layer networks, Temporal networks and other dynamic networks.
+
+I received my Ph.D. in Information Technology (in the area of Data science/data mining/Machine Learning from AKCSIT, University of Calcutta. The major contribution of my Ph.D. was to find a novel way to modify predictor spectral representation using wavelet theory for improved natural system modelling. The method, namely Wavelet System Prediction (WASP), has been successfully applied in different areas, such as drought forecasting and paleoclimate reconstruction. I received my B.Eng. in Environmental Engineering from Hohai University, Nanjing, China; I did my Joint M.Sc., named “EuroAquae - HydroInformatics and Water Management” under a partnership of five European universities (in Barcelona, Budapest, Cottbus, Newcastle/UK, and Nice). Before moving to Australia, I also worked in hydrological and crop modelling at Tropical Marine Science Institute (TMSI) of National University of Singapore (NUS) for two years.
 
 <b>Research Highlights:</b>
 * Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
